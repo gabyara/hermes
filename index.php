@@ -7,7 +7,7 @@
 	<meta charset="utf-8" />
 	<link href="css/bootstrap.min.css" rel="stylesheet" />
 	<link href="css/style.css" rel="stylesheet" />
-	<title>Conecciones</title>
+	<title>Conexiones</title>
 	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>-->
 	<script type="text/javascript" src="./jquery/jquery.3.4.js"></script>
     <script type="text/javascript">
