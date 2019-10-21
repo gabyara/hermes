@@ -1,0 +1,70 @@
+html{
+
+	position: relative;
+    min-height: 100%;
+}
+body {
+	background-image: url(../img/portada.jpg);
+	background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header .navbar-default {
+    background-color: rgba(23, 22, 22, 0.90);
+}
+header .navbar {
+    min-height: 10px;
+    height: 60px;
+}
+
+input, button{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border-radius: 4px;
+    background-color: #d9232d;
+    color: white;
+
+}
+.navbar-default {
+    border: none;
+}
+a p{
+	margin-top: 5px;
+	color: #d9232d;
+	font-size: 200%;
+}
+.Contenido{
+    margin: 0 auto;
+    padding: 16px 36px 36px;
+    background: #F7F7F7;
+}
+@media (max-width: 550px){
+    .marco2{
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 6px;
+        padding-left: 6px;
+        padding-bottom: 6px;
+        padding-right: 6px;
+        background-color: #394557;
+    }
+}
+@media (min-width: 550.5px){
+    .marco{
+        width: 42%;
+        margin: 0 auto;
+        padding-top: 6px;
+        padding-left: 6px;
+        padding-bottom: 6px;
+        padding-right: 6px;
+        background-color: #394557;
+    }
+}
+
+
+th{text-align:left;}
+
